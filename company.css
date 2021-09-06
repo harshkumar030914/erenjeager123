@@ -8,14 +8,14 @@ html{
     list-style: none;
 }
 
-      #loading{
+      /*#loading{
           width: 100%;
           height: 100vh;
           background: #fff url(winter.gif) no-repeat center;
           position: fixed;
           z-index: 9999999;
 
-      }
+      }*/
 body{
     font-family:bold;
     height: auto;
