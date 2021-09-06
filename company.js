@@ -1,8 +1,9 @@
 // preloader
-var pre = document.getElementById('loading');
-function f1(){
- pre.style.display = "none";   
-}
+      var pre = document.getElementById('loading');
+  function fun(){
+   pre.style.display = "none";
+  }
+
 // manual slider
 
       var index = 0;
