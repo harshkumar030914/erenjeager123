@@ -1,5 +1,5 @@
 // preloader
-var pre = document.getElementById('loader');
+var pre = document.getElementById('loading');
 function f1(){
  pre.style.display = "none";   
 }
