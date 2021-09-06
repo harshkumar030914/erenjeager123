@@ -1,8 +1,8 @@
 // preloader
-      var pre = document.getElementById('loading');
-  function fun(){
-   pre.style.display = "none";
-  }
+    //  var pre = document.getElementById('loading');
+  //function fun(){
+   //pre.style.display = "none";
+  //}
 
 // manual slider
 
